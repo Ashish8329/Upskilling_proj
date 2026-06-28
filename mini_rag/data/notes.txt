@@ -1,0 +1,7 @@
+RAG stands for Retrieval Augmented Generation.
+
+Embeddings convert text into vectors.
+
+FAISS is used for similarity search.
+
+Chunking divides documents into smaller pieces.`
