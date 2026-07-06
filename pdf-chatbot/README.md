@@ -306,3 +306,18 @@ This simple application introduces the core concepts behind most modern AI assis
 * **Prompt engineering** (structuring inputs to guide the model)
 
 Once this works, you can extend the same architecture to much more powerful applications—for example, a **POS AI Assistant** that answers questions about sales data, a **customer support bot** over product documentation, or an **API documentation assistant** for the Fiserv integration you've been working on. The overall flow stays nearly the same; only the data source changes.
+
+
+
+
+
+
+
+project structure 
+pdf-chatbot/
+│
+├── app.py              # Main Streamlit app
+├── requirements.txt    # Python dependencies
+├── .env                # API key (later)
+├── .gitignore
+└── README.md
